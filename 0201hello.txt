@@ -1,0 +1,61 @@
+Last login: Wed Jan 30 00:30:49 on ttys000
+hayatos-MacBook-Pro:~ hayatosato$ ruby hello.rb
+Traceback (most recent call last):
+ruby: No such file or directory -- hello.rb (LoadError)
+hayatos-MacBook-Pro:~ hayatosato$ ruby hello.rb
+Traceback (most recent call last):
+ruby: No such file or directory -- hello.rb (LoadError)
+hayatos-MacBook-Pro:~ hayatosato$ ruby index.rb
+Traceback (most recent call last):
+ruby: No such file or directory -- index.rb (LoadError)
+hayatos-MacBook-Pro:~ hayatosato$ cd desktop
+hayatos-MacBook-Pro:desktop hayatosato$ ruby hello.rb
+hello world
+hello2
+hayatos-MacBook-Pro:desktop hayatosato$ 
+hayatos-MacBook-Pro:desktop hayatosato$ 
+hayatos-MacBook-Pro:desktop hayatosato$ ruby hello.rb
+hello world
+hello2
+hayatos-MacBook-Pro:desktop hayatosato$ 
+hayatos-MacBook-Pro:desktop hayatosato$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
