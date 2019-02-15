@@ -1,14 +1,7 @@
-users = ["sato","yamada","nishi","nakano","tanaka","kato"]
+params = {name: "kakitani", team: "oosaka", hobby: "game" }
 
- team_a = []
- team_b = []
+puts params[:name]
 
-users.each.with_index do |user, i|
-
- if i.odd?
-  team_a << user
- else
-  team_b << user
- end
-
- #今日はここまで、明日復習しよう。なぜ詰まるか
+params.each do |key|
+  print [key]
+end
